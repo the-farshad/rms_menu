@@ -53,10 +53,6 @@ def read_data():
 
             except csv.Error as e:
                 sys.exit(f'file {filename}, line{reader.line_num}: {e}')
-    ref = collection.stream()
-    for firebase_data in ref:
-        data = firebase_data.to_dict()
-
 
 
 if __name__ == '__main__':
