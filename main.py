@@ -46,7 +46,7 @@ def read_data():
                         u'itemName': row[6],
                         u'itemNameInArabic': row[7],
                         u'itemNameInKurdish': row[8],
-                        u'itemPrice': row[9]
+                        u'itemPrice': int(row[9])
                     })
 
                     print (row)
