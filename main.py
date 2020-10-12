@@ -35,6 +35,7 @@ def read_data():
                         u'mainCat0': row[0],
                         u'mainCatInArabic': row[1],
                         u'mainCatInKurdish': row[2],
+                        u'mainCatImage': row[14],
                     })
 
                     subCategory = category.collection(subcategory_name).document(row[3])
