@@ -1,181 +1,181 @@
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Mineral Water,ماء,ئاو,1000
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Sprite,سبرایت,سپرایت,1500
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Fanta,فانتا,فانتا,1500
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Coke,کوکالا,کۆلا,1500
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Soda,صودا,سۆدە,1500
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Lemon Soda,صودا لیمون,سۆدە لیمۆ,2000
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Redbull,ریدبول,رێدبول,4000
-bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Redbull Mexican,ریدبول مکسیکي,رێدبول مەکسیکی,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Nuttella,نوتیلا,نوتیلا,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Banana,موز,مۆز,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Vanilla,فانیلیا,ڤانیلا,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Oreo,اوریو,ئۆرێۆ,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Chocolate,شوکلا,شوکولات,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Pistachio,فستق,فستەق,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Caramel,کرمیل,کارامێل,5000
-bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Strawberry,فرولة,فراولە,5000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Espresso,اسبریسو,ئێسپرێسو,2000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Double Espresso,اسبرسو مزدوج,دەبل ئێسپرێسو,4000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Americano,امریکانو,ئەمێریکانۆ,4000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Cappuccino,کابشینو,کاپاچینو,5000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Caffe latte,کافي لاتي,کافێ لاتێ,5000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Caffe Mocha,کافي موکا,کافێ مۆکا,4000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Caffe Macchiato,ماکیاتو,کافێ ماکیاتۆ,5000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Espresso con panna,کومبانا,کۆنپانا,2000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Turkish coffe,قهوة تركیا,قاوەی تورکی,2000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Hot chocolate,هوت شوکلیت,چۆکۆلاتی گەرم,5000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Traditional tea,شاي,چای,1000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Green tea,شاي اخضر,چای سەوز,1500
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Flower tea,زهوات,چای گوڵ,1500
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Milk with honey,حلیب بالعسل,شیر و هەنگوین,2000
-bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Kurdish coffee,قهوة قزوان,قەزوان,2000
-bar,بار,بار,Ice cream,ایس کریم,ئایس کرێم,Triple scoop ice cream,ایس کریم مشکل ٣ سکوپ,ئایس کرێم ٣ سکوپ,5000
-bar,بار,بار,Ice cream,ایس کریم,ئایس کرێم,Chocolate frappe,فرابي شوکلا,فراپێی شوکولات,5000
-bar,بار,بار,Ice cream,ایس کریم,ئایس کرێم,Vanilla frappe,فرابي فانلیا,فراپێی ڤانێلا,5000
-bar,بار,بار,Dessert,اکلویات,شیرینی,Chocolate fondant,فوندن مع ایس کریم,فۆنوون,5000
-bar,بار,بار,Dessert,اکلویات,شیرینی,Cheese cake,جیز کیك,کێکی پەنیر,5000
-bar,بار,بار,Dessert,اکلویات,شیرینی,Kanafeh with ice cream ,کنافة مع ایس کریم,کونافە و ئایس کرێم,6000
-bar,بار,بار,Dessert,اکلویات,شیرینی,Nutella crepes,کریب نوتیلا,کرێپی نۆتێلا,6000
-bar,بار,بار,Dessert,اکلویات,شیرینی,Banana-strawberry  crepes,کریب موز فرولة,كرێپی مۆز فلاولە,6000
-bar,بار,بار,Dessert,اکلویات,شیرینی,Arbab cropes,کریب سیوت کافي,کرێپی ئەرباب,7000
-bar,بار,بار,Fruits,فواکه,میوه,Small,صحن فواکه صغیر,بچووک,10000
-bar,بار,بار,Fruits,فواکه,میوه,Medium,صحن فواکه وسط,ناوەند,15000
-bar,بار,بار,Fruits,فواکه,میوه,Large,صحن فواکه کبیر,گەورە,20000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Orange,برتقال,پرتەقال,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Lemon-Mint (Polo),لیمون نعنع (بولو),لێمو نەعناع (پۆلۆ),6000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Lemon,لیمون,لێمو,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Pineapple,اناناس,ئەنەناس,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Pomegranate,رمان,هەنار,6000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Strawberry,فرولة,فراولە,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Apple,تفاح,سێو,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Carrot,جزر,گێزەر,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Carrot-Orange,جزر برتقال,گێزەر-پرتقال,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Orange-Lemon,لیمون برتقال,پرتەقال-لیمۆ,5000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Sport diet,عرصیه سبورت دایت,سپۆرت دایت,7000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Avocado,افوکادو,ئافۆکادۆ,7000
-bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Mango,مانجو,مانگۆ,7000
-bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Fruit cocktail,کوکتیل فواکه,کۆکتێلی میوه,6000
-bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Banana milk,کوکتیل موز حلیب,شیر مۆز,5000
-bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Classic cock,کلاسیک کوکتیل,کلاسیک,6000
-bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Sport special,کوکتیل سپورت,سپۆرت تایبەت,7000
-bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Pina-Colada,بینا کولادا,پینا کۆلادا,7000
-bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Mojito,موهیتو,مۆهیتۆ,5000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Arbab special,سبورت کافی,ئەربابی تایبەت,12000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Lemon-Mint,لیمون نعنع,لێمۆ نەعنا,10000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Gum-Mint,علك نعنع,بنێشت نەعنا,10000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Ghazwan,قزوان,قەزوان,10000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Two apples,تفاحتين,دوو سێو,10000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Melon,شمام,گندۆرە,10000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Baghdadian,بغدادي,بەغدادی,10000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Grapefruit Fresh,طبیعي سندي,سندی تازە,14000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Pineapple Fresh,طبیعي اناناس,ئەنەناس تازە,16000
-hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Grape,عنب,ترێ,10000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken nuggets,تشکن ناغیت,نوگێتی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Spicy chicken,تشکن سبایسي,مریشکی تیژ,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Fire chicken with cheese,تشیز تشکن سبایسي,مریشکی تیژ بە پەنیر,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chinese Chiken,تشکن تشاینیز,مریشکی چینی,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken steak,تشیکن ستیك,ستیکی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Mexicana chicken,تشیکن مکسیکانو,مریشکی مەکسیکی,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken scallop,اسکالوب دجاج,سکالوی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken Oscar,تشیکن اوسکار,مریشکی ئۆسکار,10000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Cheesy American chicken,امیریکان تشیکن تشیز,مریشکی ئەمریکی بە پەنیر,10000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken with herbs,دجاج بالاعشاب,مریشک بە بهارات,10000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken cordon bleu,كوردون بلو دجاج,کاردۆن بلو,12000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Crispy chicken,تشکین کریسبي,کریسپی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken fajita,فاهیتا دجاج,فاهیتای مریشک,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Saj tawook,صاج طاوة,قەلیەیی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken curry with rice,دجاج بالکاری,مریشک بە کاری,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Iraqi kebab,کباب عراقي,کەباب عێراقی,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Halabi kebab,كباب حلبي,کەباب حەلەبی,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Eggplant kebab,كباب بازنجان,کەباب باینجان,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Opium poppy kebab,کباب خشخاشی,کباب خەشخاش,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Izmirain kebab,کباب ازمرلي,کباب ئیزمیری,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Mushroom kebab,کباب بالفطر,کباب بە کوارگ,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Shish tawook,شیشی طاوق,تکەی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Beef tikka,شقف مشویة,تکەی گۆشت,10000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Lamp chops,کئلیته مشویة,بەرزولە,16000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Grilled wings,جوانح مشویة,باڵی مریشک,8000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Half grilled chicken,نصف دجاج مشویة,نیو مریشکی برژاو,7000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Grilled chicken,دجاج مشویة,مریشکی برژاو,14000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Casa Maria,ماریا,ماریا,7000
-kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Avayes,عرایس,عەرایس,7000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish meuniere,فیلیة سمك مونییر,ماسی مانوێڕی,10000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish pane,فیلیة سمك بانیه,ماسی پانی,10000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish zinger,فیلیة سمك زنجار,زینگەری ماسی,10000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Saint tropez fish,فیلیة سمك سان تروبیز,ماسی سانت ترۆپێر,10000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish curry,فیلیة سمک بالکاري,ماسی بەکاری,10000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Grilled salmon,سلمون مشوي,سەلەمونی برژاو,20000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Shrimp,جمیري,رۆبیان,20000
-kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Sardine Fish,سمك سردین,ماسی دەریایی بچووک,10000
-kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Spaghetti bolognese,سباغیتی بولونیز,سپاگێتی بۆلۆنێز,8000
-kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Fettuccine alfredo,فیتوتشیني الفریدو,فێتوچینی ئالفرێدۆ,10000
-kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Penne Arrabiata,بیني اربیتا,پێنی ئەرەبیاتا,8000
-kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Lasagne,لازینا,لازانیا,10000
-kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Noodles,نودلز باستا,نودل,12000
-kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Indonesian,جاویە باستا,ئەندەنوزی,12000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Hummus,حومص,حومس,4000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Hummus Beiruti,حمص بیروتي,حومس بەیروتی,4000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Baba Ghanoush,باباغنوج,بابا غەنوش,4000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Muhammara,محمرة,موحەمەرە,4000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Eggplant,بازنجانیة,باینجانی,4000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Yalanji,یالنجي,بەڵگە مێو,6000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Cig Kofte,کبة نیة,کوبە نییە,7000
-kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Mixed,موقبلات مشكلة,تێکەڵ,7000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Hummus with meat,حمص بالحمة,حوموس بە گۆشت,6000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Traboulsi kofte,كبة طرابلسیة,کوبەی ترابلوسی,7000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Cheese Bourekas,برك جبنة,بورەکی پەنیر,5000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,French fries,بطاطا مقلیة,پەتاتەی سورکراوە,4000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Potato wedges,بطاطا و دجز,پەتاتەی سورکراوە (بە توێکل),5000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Fried sliced potato,بطاطا مطفایة,پەتاتەی سورکراوە(تەسک),5000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Fried chicken wings,جوانح بانیة,باڵی مریشکی سورکراوە,6000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Fried kofte,كبة صاجیة,کوبەی سورکراوە,7000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Mufarakah (Mushroom-Meat),مفركة فطر بالحمة,موفەرەکە(گۆشت٠کوارگ),8000
-kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Grilled Halloumi (Cheese),حلوم مشاوي,حەلومی برژاو,6000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Mixed,مشکل,تێکەل,10000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Beef,لحم,گۆشت,10000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Chicken,دجاج,مریشک,8000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Four seasons,الفصول,چوار وەرز,8000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Tuna,تونا,تونا,8000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Pepperoni,بیبروني,پێپێرۆنی,8000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Margherita,مارغرییا,مارگاریتا,8000
-kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Veggie,خضار,سەوزەوات,8000
-kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Thyme,زعتر,زەعتەر,4000
-kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Cheese,بالجبنة,پەنیر,4000
-kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Muhammara,محمرة,موحەمەرە,4000
-kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Beef and cheese,لحم بعجین,گوشت و پەنیر,5000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Diana steak,ستیك دیانا,ستیکی دیانا,15000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Mignon steak,ستیك مینیون,ستیکی مینیون,15000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Lemon-garlic thin steak,شرحات مطفاي,ستیکی لیمۆ-سیر,15000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Zingara streak,شرحات زنجارا,ستیکی زینگارا,15000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Cordon bleu,کوردون بلو لحم,کۆردۆن بلو,15000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef Mexicano,بیف مکسیکانو,گۆشتی مەکسیکی,10000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef curry,کاري لحم,گۆشت بە کاری,12000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Chinese beef,بیف تشاینیز,گۆشتی چینی,12000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef fajita,فاهیتا لحم,فاهیتای گۆشت,10000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef,لحم,گۆشت,10000
-kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Chilfray,صاص طاوة لحم,قەلیەیی,10000
-kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Mushroom,شوربة الفطر,کوراگ,4000
-kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Chicken,شوربة الدجاج,مریشک,4000
-kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Corn,شوربة الذرة,گەنمەشامی,4000
-kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Veggie,شوربة الخضار,سەوزەوات,4000
-kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Lentil,شوربة عدس,نیسک,4000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Rocca,سلطة جرجیر,جرجیر,5000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Armenian,سلطة ارمینة,ئەرمەنی,5000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Greek,سلطة یونانیە,یۆنانی,7000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Eastern ,سلطة شرقیة,رۆژهەڵاتی,5000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Tabbouleh,تبولة,تەبولە,5000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Fattusch,فتوش,فەتوش,5000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Cucumber yogurt,جاجیك,خیار ماست,4000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Caesar,سیزر سالاد,سیزار,7000
-kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Tuna,تونا سلاد,تونا,7000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Chicken fajita,فاهیتا دجاج,فاهیتای مریشک,6000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Beef fajita,فاهیتا لحم,فاهیتای گۆشت,7000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Mexican chicken,مکسیکانو دجاج,مریشکی مەکسیکی,6000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Mexican beef,مکسیکانو لحم,گۆشتی مەکسیکی,7000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Nuggets,ناغیت,ناگێت,6000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Crispy,کرسبي,کریسپی,6000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Fish burger,فیش برکر,برگری ماسی,6000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Classic burger,برکر لحم,برگری کلاسیک,7000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Cheese burger,جیز برکر,چیز برگر,7000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Chicken burger,برکری دجاج,برگری مریشک,7000
-kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Chicken Picasso,بیکاسو دجاج,پیکاسۆی مریشک,6000
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Mineral Water,ماء,ئاو,1000,0,TRUE,,https://images.unsplash.com/photo-1599497637720-72b0b2eaeaf0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=624&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Sprite,سبرایت,سپرایت,1500,0,TRUE,,https://images.unsplash.com/photo-1592860893757-84536a1c9b82?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Fanta,فانتا,فانتا,1500,0,TRUE,,https://images.unsplash.com/photo-1598419161288-9f2f26c85590?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1076&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Coke,کوکالا,کۆلا,1500,0,TRUE,,https://images.unsplash.com/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Soda,صودا,سۆدە,1500,0,TRUE,,https://images.unsplash.com/photo-1544418749-94b09b11e93f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Lemon Soda,صودا لیمون,سۆدە لیمۆ,2000,0,TRUE,,https://images.unsplash.com/photo-1581636625402-29b2a704ef13?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Redbull,ریدبول,رێدبول,4000,0,TRUE,,https://images.unsplash.com/photo-1589669074548-18549d54ccaf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80
+bar,بار,بار,Cold drinks,مشروبات باردة,خواردنەوە ساردەکان,Redbull Mexican,ریدبول مکسیکي,رێدبول مەکسیکی,5000,0,TRUE,,https://images.unsplash.com/photo-1589669074548-18549d54ccaf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=650&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Nuttella,نوتیلا,نوتیلا,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Banana,موز,مۆز,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Vanilla,فانیلیا,ڤانیلا,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Oreo,اوریو,ئۆرێۆ,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Chocolate,شوکلا,شوکولات,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Pistachio,فستق,فستەق,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Caramel,کرمیل,کارامێل,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Milk shake,میلك شیاکات,میلک شەیک,Strawberry,فرولة,فراولە,5000,0,TRUE,,https://images.unsplash.com/photo-1553787499-6f9133860278?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Espresso,اسبریسو,ئێسپرێسو,2000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Double Espresso,اسبرسو مزدوج,دەبل ئێسپرێسو,4000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Americano,امریکانو,ئەمێریکانۆ,4000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Cappuccino,کابشینو,کاپاچینو,5000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Caffe latte,کافي لاتي,کافێ لاتێ,5000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Caffe Mocha,کافي موکا,کافێ مۆکا,4000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Caffe Macchiato,ماکیاتو,کافێ ماکیاتۆ,5000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Espresso con panna,کومبانا,کۆنپانا,2000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Turkish coffe,قهوة تركیا,قاوەی تورکی,2000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Hot chocolate,هوت شوکلیت,چۆکۆلاتی گەرم,5000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Traditional tea,شاي,چای,1000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Green tea,شاي اخضر,چای سەوز,1500,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Flower tea,زهوات,چای گوڵ,1500,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Milk with honey,حلیب بالعسل,شیر و هەنگوین,2000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Hot drinks,مشروبات ساخنة,خواردنەوە گەرمەکان,Kurdish coffee,قهوة قزوان,قەزوان,2000,0,TRUE,,https://images.unsplash.com/photo-1511920170033-f8396924c348?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Ice cream,ایس کریم,ئایس کرێم,Triple scoop ice cream,ایس کریم مشکل ٣ سکوپ,ئایس کرێم ٣ سکوپ,5000,0,TRUE,,https://images.unsplash.com/photo-1501443762994-82bd5dace89a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+bar,بار,بار,Ice cream,ایس کریم,ئایس کرێم,Chocolate frappe,فرابي شوکلا,فراپێی شوکولات,5000,0,TRUE,,https://images.unsplash.com/photo-1501443762994-82bd5dace89a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+bar,بار,بار,Ice cream,ایس کریم,ئایس کرێم,Vanilla frappe,فرابي فانلیا,فراپێی ڤانێلا,5000,0,TRUE,,https://images.unsplash.com/photo-1501443762994-82bd5dace89a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+bar,بار,بار,Dessert,اکلویات,شیرینی,Chocolate fondant,فوندن مع ایس کریم,فۆنوون,5000,0,TRUE,,https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Dessert,اکلویات,شیرینی,Cheese cake,جیز کیك,کێکی پەنیر,5000,0,TRUE,,https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Dessert,اکلویات,شیرینی,Kanafeh with ice cream ,کنافة مع ایس کریم,کونافە و ئایس کرێم,6000,0,TRUE,,https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Dessert,اکلویات,شیرینی,Nutella crepes,کریب نوتیلا,کرێپی نۆتێلا,6000,0,TRUE,,https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Dessert,اکلویات,شیرینی,Banana-strawberry  crepes,کریب موز فرولة,كرێپی مۆز فلاولە,6000,0,TRUE,,https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Dessert,اکلویات,شیرینی,Arbab cropes,کریب سیوت کافي,کرێپی ئەرباب,7000,0,TRUE,,https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Fruits,فواکه,میوه,Small,صحن فواکه صغیر,بچووک,10000,0,TRUE,,https://images.unsplash.com/photo-1519996529931-28324d5a630e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Fruits,فواکه,میوه,Medium,صحن فواکه وسط,ناوەند,15000,0,TRUE,,https://images.unsplash.com/photo-1519996529931-28324d5a630e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Fruits,فواکه,میوه,Large,صحن فواکه کبیر,گەورە,20000,0,TRUE,,https://images.unsplash.com/photo-1519996529931-28324d5a630e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Orange,برتقال,پرتەقال,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Lemon-Mint (Polo),لیمون نعنع (بولو),لێمو نەعناع (پۆلۆ),6000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Lemon,لیمون,لێمو,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Pineapple,اناناس,ئەنەناس,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Pomegranate,رمان,هەنار,6000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Strawberry,فرولة,فراولە,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Apple,تفاح,سێو,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Carrot,جزر,گێزەر,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Carrot-Orange,جزر برتقال,گێزەر-پرتقال,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Orange-Lemon,لیمون برتقال,پرتەقال-لیمۆ,5000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Sport diet,عرصیه سبورت دایت,سپۆرت دایت,7000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Avocado,افوکادو,ئافۆکادۆ,7000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Fresh Juice,عصایر,شەربەتی سروشتی,Mango,مانجو,مانگۆ,7000,0,TRUE,,https://images.unsplash.com/photo-1497534446932-c925b458314e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=707&q=80
+bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Fruit cocktail,کوکتیل فواکه,کۆکتێلی میوه,6000,0,TRUE,,https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Banana milk,کوکتیل موز حلیب,شیر مۆز,5000,0,TRUE,,https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Classic cock,کلاسیک کوکتیل,کلاسیک,6000,0,TRUE,,https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Sport special,کوکتیل سپورت,سپۆرت تایبەت,7000,0,TRUE,,https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Pina-Colada,بینا کولادا,پینا کۆلادا,7000,0,TRUE,,https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
+bar,بار,بار,Cocktails,کوکتیلات,کۆکتێلەکان,Mojito,موهیتو,مۆهیتۆ,5000,0,TRUE,,https://images.unsplash.com/photo-1481671703460-040cb8a2d909?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Arbab special,سبورت کافی,ئەربابی تایبەت,12000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Lemon-Mint,لیمون نعنع,لێمۆ نەعنا,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Gum-Mint,علك نعنع,بنێشت نەعنا,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Ghazwan,قزوان,قەزوان,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Two apples,تفاحتين,دوو سێو,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Melon,شمام,گندۆرە,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Baghdadian,بغدادي,بەغدادی,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Grapefruit Fresh,طبیعي سندي,سندی تازە,14000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Pineapple Fresh,طبیعي اناناس,ئەنەناس تازە,16000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+hookah,الاراکیل,نێرگلە,Shisha,شیشة,نێرگلە,Grape,عنب,ترێ,10000,0,TRUE,,https://images.unsplash.com/photo-1574751749605-0f1e41b6cf67?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken nuggets,تشکن ناغیت,نوگێتی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Spicy chicken,تشکن سبایسي,مریشکی تیژ,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Fire chicken with cheese,تشیز تشکن سبایسي,مریشکی تیژ بە پەنیر,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chinese Chiken,تشکن تشاینیز,مریشکی چینی,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken steak,تشیکن ستیك,ستیکی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Mexicana chicken,تشیکن مکسیکانو,مریشکی مەکسیکی,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken scallop,اسکالوب دجاج,سکالوی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken Oscar,تشیکن اوسکار,مریشکی ئۆسکار,10000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Cheesy American chicken,امیریکان تشیکن تشیز,مریشکی ئەمریکی بە پەنیر,10000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken with herbs,دجاج بالاعشاب,مریشک بە بهارات,10000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken cordon bleu,كوردون بلو دجاج,کاردۆن بلو,12000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Crispy chicken,تشکین کریسبي,کریسپی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken fajita,فاهیتا دجاج,فاهیتای مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Saj tawook,صاج طاوة,قەلیەیی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Chicken Meals,وجبات الدجاج,ژەمی مریشک,Chicken curry with rice,دجاج بالکاری,مریشک بە کاری,10000,0,TRUE,,https://images.unsplash.com/photo-1562967915-92ae0c320a01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Iraqi kebab,کباب عراقي,کەباب عێراقی,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Halabi kebab,كباب حلبي,کەباب حەلەبی,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Eggplant kebab,كباب بازنجان,کەباب باینجان,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Opium poppy kebab,کباب خشخاشی,کباب خەشخاش,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Izmirain kebab,کباب ازمرلي,کباب ئیزمیری,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Mushroom kebab,کباب بالفطر,کباب بە کوارگ,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Shish tawook,شیشی طاوق,تکەی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Beef tikka,شقف مشویة,تکەی گۆشت,10000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Lamp chops,کئلیته مشویة,بەرزولە,16000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Grilled wings,جوانح مشویة,باڵی مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Half grilled chicken,نصف دجاج مشویة,نیو مریشکی برژاو,7000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Grilled chicken,دجاج مشویة,مریشکی برژاو,14000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Casa Maria,ماریا,ماریا,7000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Kebab,وجبات المشاوي,کەباب,Avayes,عرایس,عەرایس,7000,0,TRUE,,https://images.unsplash.com/photo-1595777216528-071e0127ccbf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish meuniere,فیلیة سمك مونییر,ماسی مانوێڕی,10000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish pane,فیلیة سمك بانیه,ماسی پانی,10000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish zinger,فیلیة سمك زنجار,زینگەری ماسی,10000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Saint tropez fish,فیلیة سمك سان تروبیز,ماسی سانت ترۆپێر,10000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Fish curry,فیلیة سمک بالکاري,ماسی بەکاری,10000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Grilled salmon,سلمون مشوي,سەلەمونی برژاو,20000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Shrimp,جمیري,رۆبیان,20000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sea Food,وجبات االسمك,خواردنی دەریایی,Sardine Fish,سمك سردین,ماسی دەریایی بچووک,10000,0,TRUE,,https://images.unsplash.com/photo-1598298106499-37952d759c3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Spaghetti bolognese,سباغیتی بولونیز,سپاگێتی بۆلۆنێز,8000,0,TRUE,,https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Fettuccine alfredo,فیتوتشیني الفریدو,فێتوچینی ئالفرێدۆ,10000,0,TRUE,,https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Penne Arrabiata,بیني اربیتا,پێنی ئەرەبیاتا,8000,0,TRUE,,https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Lasagne,لازینا,لازانیا,10000,0,TRUE,,https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Noodles,نودلز باستا,نودل,12000,0,TRUE,,https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Pasta,باسته,پاستا,Indonesian,جاویە باستا,ئەندەنوزی,12000,0,TRUE,,https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Hummus,حومص,حومس,4000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Hummus Beiruti,حمص بیروتي,حومس بەیروتی,4000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Baba Ghanoush,باباغنوج,بابا غەنوش,4000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Muhammara,محمرة,موحەمەرە,4000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Eggplant,بازنجانیة,باینجانی,4000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Yalanji,یالنجي,بەڵگە مێو,6000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Cig Kofte,کبة نیة,کوبە نییە,7000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Cold Appetizers,المقبلات البارده,موقەبیلاتی سار,Mixed,موقبلات مشكلة,تێکەڵ,7000,0,TRUE,,https://images.unsplash.com/photo-1505576633757-0ac1084af824?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Hummus with meat,حمص بالحمة,حوموس بە گۆشت,6000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Traboulsi kofte,كبة طرابلسیة,کوبەی ترابلوسی,7000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Cheese Bourekas,برك جبنة,بورەکی پەنیر,5000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,French fries,بطاطا مقلیة,پەتاتەی سورکراوە,4000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Potato wedges,بطاطا و دجز,پەتاتەی سورکراوە (بە توێکل),5000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Fried sliced potato,بطاطا مطفایة,پەتاتەی سورکراوە(تەسک),5000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Fried chicken wings,جوانح بانیة,باڵی مریشکی سورکراوە,6000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Fried kofte,كبة صاجیة,کوبەی سورکراوە,7000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Mufarakah (Mushroom-Meat),مفركة فطر بالحمة,موفەرەکە(گۆشت٠کوارگ),8000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Hot Appetizers,المقبلات الساخنة,موقەبیلاتی گەرم,Grilled Halloumi (Cheese),حلوم مشاوي,حەلومی برژاو,6000,0,TRUE,,https://images.unsplash.com/photo-1543340713-1bf56d3d1b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1019&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Mixed,مشکل,تێکەل,10000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Beef,لحم,گۆشت,10000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Chicken,دجاج,مریشک,8000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Four seasons,الفصول,چوار وەرز,8000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Tuna,تونا,تونا,8000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Pepperoni,بیبروني,پێپێرۆنی,8000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Margherita,مارغرییا,مارگاریتا,8000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Pizza,بیتزا,پیتزا,Veggie,خضار,سەوزەوات,8000,0,TRUE,,https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=714&q=80
+kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Thyme,زعتر,زەعتەر,4000,0,TRUE,,https://images.unsplash.com/photo-1600346019001-8d56d1b51d59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Cheese,بالجبنة,پەنیر,4000,0,TRUE,,https://images.unsplash.com/photo-1600346019001-8d56d1b51d59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Muhammara,محمرة,موحەمەرە,4000,0,TRUE,,https://images.unsplash.com/photo-1600346019001-8d56d1b51d59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Manakish,منقیشی,مەناقش,Beef and cheese,لحم بعجین,گوشت و پەنیر,5000,0,TRUE,,https://images.unsplash.com/photo-1600346019001-8d56d1b51d59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Diana steak,ستیك دیانا,ستیکی دیانا,15000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Mignon steak,ستیك مینیون,ستیکی مینیون,15000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Lemon-garlic thin steak,شرحات مطفاي,ستیکی لیمۆ-سیر,15000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Zingara streak,شرحات زنجارا,ستیکی زینگارا,15000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Cordon bleu,کوردون بلو لحم,کۆردۆن بلو,15000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef Mexicano,بیف مکسیکانو,گۆشتی مەکسیکی,10000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef curry,کاري لحم,گۆشت بە کاری,12000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Chinese beef,بیف تشاینیز,گۆشتی چینی,12000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef fajita,فاهیتا لحم,فاهیتای گۆشت,10000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Beef,لحم,گۆشت,10000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Meat meals,وجبات الحوم,ژەمی گوشت,Chilfray,صاص طاوة لحم,قەلیەیی,10000,0,TRUE,,https://images.unsplash.com/photo-1504973960431-1c467e159aa4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Mushroom,شوربة الفطر,کوراگ,4000,0,TRUE,,https://images.unsplash.com/photo-1510431198580-7727c9fa1e3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Chicken,شوربة الدجاج,مریشک,4000,0,TRUE,,https://images.unsplash.com/photo-1510431198580-7727c9fa1e3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Corn,شوربة الذرة,گەنمەشامی,4000,0,TRUE,,https://images.unsplash.com/photo-1510431198580-7727c9fa1e3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Veggie,شوربة الخضار,سەوزەوات,4000,0,TRUE,,https://images.unsplash.com/photo-1510431198580-7727c9fa1e3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+kitchen,مطبخ,مەتبەخ,Soup,الشوربات,شۆربا,Lentil,شوربة عدس,نیسک,4000,0,TRUE,,https://images.unsplash.com/photo-1510431198580-7727c9fa1e3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Rocca,سلطة جرجیر,جرجیر,5000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Armenian,سلطة ارمینة,ئەرمەنی,5000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Greek,سلطة یونانیە,یۆنانی,7000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Eastern ,سلطة شرقیة,رۆژهەڵاتی,5000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Tabbouleh,تبولة,تەبولە,5000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Fattusch,فتوش,فەتوش,5000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Cucumber yogurt,جاجیك,خیار ماست,4000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Caesar,سیزر سالاد,سیزار,7000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Salad,السلطات,زەلاتە,Tuna,تونا سلاد,تونا,7000,0,TRUE,,https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Chicken fajita,فاهیتا دجاج,فاهیتای مریشک,6000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Beef fajita,فاهیتا لحم,فاهیتای گۆشت,7000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Mexican chicken,مکسیکانو دجاج,مریشکی مەکسیکی,6000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Mexican beef,مکسیکانو لحم,گۆشتی مەکسیکی,7000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Nuggets,ناغیت,ناگێت,6000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Crispy,کرسبي,کریسپی,6000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Fish burger,فیش برکر,برگری ماسی,6000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Classic burger,برکر لحم,برگری کلاسیک,7000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Cheese burger,جیز برکر,چیز برگر,7000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Chicken burger,برکری دجاج,برگری مریشک,7000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+kitchen,مطبخ,مەتبەخ,Sandwich,سندویش,ساندویچ,Chicken Picasso,بیکاسو دجاج,پیکاسۆی مریشک,6000,0,TRUE,,https://images.unsplash.com/photo-1554433607-66b5efe9d304?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80

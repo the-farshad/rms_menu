@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv
 import firebase_admin
-from firebase_admin import credentials, firestore
+from firebase_admin import credentials, firestore, storage, auth
 from file_check import file_abs_path as path
 from file_check import file_exists_check as exist
 
@@ -17,7 +17,9 @@ def read_data():
 
     if (not len(firebase_admin._apps)):
         cred = credentials.Certificate(path() + 'ServiceAccountKey.json')
-        default_app = firebase_admin.initialize_app(cred)
+        default_app = firebase_admin.initialize_app(cred, {
+            'storageBucket': '<BUCKET_NAME>'
+        })
     db = firestore.client()
     collection = db.collection(u'clients').document(resturant_name).collection(category_name)
 
@@ -40,13 +42,20 @@ def read_data():
                         u'subCatName':  row[3],
                         u'subCatNameInArabic': row[4],
                         u'subCatNameInKurdish': row[5],
+                        u'mainCatName': row[0],
                     })
                     item = subCategory.collection(items_name).document(row[6])
                     item.set({
                         u'itemName': row[6],
                         u'itemNameInArabic': row[7],
                         u'itemNameInKurdish': row[8],
-                        u'itemPrice': int(row[9])
+                        u'itemPrice': int(row[9]),
+                        u'itemOffPrice': int(row[10]),
+                        u'itemMainCategory': row[0],
+                        u'itemSubCategory': row[3],
+                        u'itemAvailability': bool(row[11]),
+                        u'itemImage': row[12] ,
+                        u'itemImagePlaceholder': row[13],
                     })
 
                     print (row)
