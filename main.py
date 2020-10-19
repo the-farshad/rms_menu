@@ -10,13 +10,14 @@ def read_data():
 
     filename = "menu.csv"
     resturant_name= u'Sport_Cafe'
+    service_key = 'ServiceAccountKey.json'
     resturant_name_perfix = resturant_name + '_'
     category_name = resturant_name_perfix + u'Categories'
     subcategory_name = resturant_name_perfix + u'Subcategories'
     items_name = resturant_name_perfix + u'Items'
 
     if (not len(firebase_admin._apps)):
-        cred = credentials.Certificate(path() + 'ServiceAccountKey.json')
+        cred = credentials.Certificate(path() + service_key)
         default_app = firebase_admin.initialize_app(cred, {
             'storageBucket': '<BUCKET_NAME>'
         })

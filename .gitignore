@@ -1,5 +1,5 @@
 # Auth File
-ServiceAccountKey.json
+ServiceAccountKey*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

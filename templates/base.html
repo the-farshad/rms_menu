@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="DATACODE Online Menu" />
+        <meta name="keywords" content="DATACODE, Menu" />
+        <meta name="author" content="DATACODE" />
+
+        <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+        <!-- food icons -->
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/organicfoodicons.css') }}" />
+        <!-- demo styles -->
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/demo.css') }}" />
+        <!-- menu styles -->
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/component.css') }}" />
+
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+        
+        <script src="{{ url_for('static', filename='js/modernizr-custom.js') }}"></script>
+
+        {% block head %}{% endblock %}
+    </head>
+    <body>
+        {% block body %}{% endblock %}
+    </body>
+
+
+	<script src="{{ url_for('static', filename='js/classie.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/data.js') }}"></script>
+	<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+	{% block script %}{% endblock %}
+</html>
