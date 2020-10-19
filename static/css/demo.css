@@ -250,9 +250,10 @@ a:hover {
 }
 
 .product .foodicon {
-	font-size: 4em;
-	line-height: 190px;
-	color: #3b3d4a;
+	font-size: 1.2em;
+	line-height: 100px;
+	color: #cecece;
+	/* color: #3b3d4a; */
 }
 
 .info {
