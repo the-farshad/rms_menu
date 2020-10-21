@@ -49,7 +49,7 @@ def jsonify():
                     }
 
                 for row in reader:
-                    item = f'<li class=\"product\"><div class=\"foodicon\">{row[6]}</div></li>'
+                    item = f'<li class=\"product\"><div style="background-image: url("{row[13]}");" class=\"foodicon\">{row[6]}</br>{row[7]}</br>{row[8]}</br>{row[9]}</div></li>'
                     if row[3] in js:
                         js[row[3]]=js[row[3]]+item
                     else:

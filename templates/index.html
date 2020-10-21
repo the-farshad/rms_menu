@@ -22,7 +22,7 @@
 				<!-- Submenu 1 -->
 				<ul data-menu="submenu-1" id="submenu-1" class="menu__level" tabindex="-1" role="menu" aria-label="Vegetables">
                     {% for item in menu['bar']['subcategories']%}
-					        <li class="menu__item" role="menuitem"><a class="menu__link" href="#">{{item|capitalize}}</a></li>
+					        <li class="menu__item" role="menuitem"><a class="menu__link" href="#">{{item}}</a></li>
                     {% endfor%}
                     <li class="menu__item" role="menuitem"><a class="menu__link" data-submenu="submenu-1-1" aria-owns="submenu-1-1" href="#">Sale</a></li>
 				</ul>
@@ -36,7 +36,7 @@
 				<!-- Submenu 2 -->
 				<ul data-menu="submenu-2" id="submenu-2" class="menu__level" tabindex="-1" role="menu" aria-label="Fruits">
 					{% for item in menu['hookah']['subcategories']%}
-					        <li class="menu__item" role="menuitem"><a class="menu__link" href="#">{{item|capitalize}}</a></li>
+					        <li class="menu__item" role="menuitem"><a class="menu__link" href="#">{{item}}</a></li>
                     {% endfor%}
 				</ul>
 

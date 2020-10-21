@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>DATACODE - Sport Cafe</title>
+    <link rel="icon" href="./assets/sport-cafe.svg" sizes="any" type="image/png">
+    <link
+      href="https://fonts.googleapis.com/css?family=Damion|Quicksand"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+  
+    <!-- partial:index.partial.html -->
+    <a
+      href="https://www.facebook.com/sportcafearbab-107143674499377"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <div class="editlink"></div>
+    </a>
+    <div id="app">
+      <section
+        id="specialssection"
+        class="specials-container"
+        v-if="menuItems_L"
+        :style="menuStyle"
+      >
+        <div id="special_component" :style="menuStyle">
+          <h1>Sport Cafe </h1><p>by Arbab</p>
+          <div class="specials-table-container">
+            <table>
+              <tbody
+                v-for="item in menuItems_L"
+                :key="`specialmenu-${item.name}`"
+              >
+                <tr class="nameandprice">
+                  <td :style="dotStyle">
+                    <span :style="menuStyle">{{item.name}}</span>
+                  </td>
+                  <td :style="dotStyle">
+                    <span :style="menuStyle">{{item.price}}IQD</span>
+                  </td>
+                </tr>
+                <tr class="description">
+                  <td colspan="2">{{item.description}}
+</td>
+                  <td>
+                </tr>
+              </tbody>
+            </table>
+            <table>
+              <tbody
+                v-for="item in menuItems_R"
+                :key="`specialmenu-${item.name}`"
+              >
+                <tr class="nameandprice">
+                  <td :style="dotStyle">
+                    <span :style="menuStyle">{{item.name}}</span>
+                  </td>
+                  <td :style="dotStyle">
+                    <span :style="menuStyle">${{item.price}}IQD</span>
+                  </td>
+                </tr>
+                <tr class="description">
+
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- partial -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
