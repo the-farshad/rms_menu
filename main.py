@@ -9,10 +9,10 @@ from file_check import file_exists_check as exist
 def read_data():
 
     filename = "menu.csv"
-    resturant_name= u'Sport_Cafe'
-    service_key = 'ServiceAccountKey.json'
+    resturant_name= u'Hama Cafe'
+    service_key = 'ServiceAccountKey_HEC.json'
     resturant_name_perfix = resturant_name + '_'
-    category_name = resturant_name_perfix + u'Categories'
+    category_name = resturant_name_perfix + u'Categories_V2'
     subcategory_name = resturant_name_perfix + u'Subcategories'
     items_name = resturant_name_perfix + u'Items'
 
@@ -29,7 +29,6 @@ def read_data():
             reader = csv.reader(fr)
             try:
                 for row in reader:
-
                     category = collection.document(row[0])
                     category.set({
                         u'mainCat': row[0],

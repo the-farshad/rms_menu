@@ -35,19 +35,25 @@
                 v-for="item in menuItems_L"
                 :key="`specialmenu-${item.name}`"
               >
+              
+               <tr class="imageItem">
+               <td>
+                
+                </td>
+                </tr>
                 <tr class="nameandprice">
                   <td :style="dotStyle">
-                    <span :style="menuStyle">{{item.name}}</span>
+                    <img class="thumbnail" :src="item.image" />
+                    </td>
+                    <td class="left">
+                    <span :style="menuStyle">{{item.name}}</span><br/>
+                   <span :style="menuStyle">{{item.description}}</span> 
                   </td>
                   <td :style="dotStyle">
                     <span :style="menuStyle">{{item.price}}IQD</span>
                   </td>
                 </tr>
-                <tr class="description">
-                  <td colspan="2">{{item.description}}
-</td>
-                  <td>
-                </tr>
+                <br/>
               </tbody>
             </table>
             <table>

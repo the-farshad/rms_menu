@@ -16,7 +16,6 @@ var app = new Vue({
                         price: element[2],
                         image: element[3],
                     }
-
                     vm.menuItems_L = vm.menuItems_L.concat(mitem)
                 }
                 console.log(response)
@@ -26,8 +25,7 @@ var app = new Vue({
         menuItems_L: [],
         menuItems_R: [],
         menuStyle: {
-            background: '#ffe6d1',
-            color: '#000'
+            color: '#FFF',
         },
         dotStyle: {
             backgroundImage: 'radial-gradient(' + this.color + ' 1px, transparent 0px)'
